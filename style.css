@@ -1,0 +1,25 @@
+.menu{
+display:flex;
+justify-content: space-between;
+background-color: aquamarine;
+font-size: 25px;
+font-family:sans-serif ;
+font-weight: 380;
+color: brown;
+}
+body{
+    background-color: crimson;
+}
+
+.grid img{
+    border: 5px solid blueviolet;
+    border-radius: 70px;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: chartreuse;
+
+    width: 310px;
+    font-family:'Times New Roman';
+}
